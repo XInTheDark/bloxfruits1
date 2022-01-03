@@ -13,7 +13,7 @@ elseif PlaceId == 537413528 then
 elseif PlacId == 1458767429 then
 	loadstring(game:HttpGet"https://raw.githubusercontent.com/xDepressionx/Free-Script/main/Anime-Battle-Arena.lua")()
 else
-	game.Players.LocalPlayer:kick("สคริปไม่มีเกมนี้ ไอ้เวร")
+	game.Players.LocalPlayer:kick("Hmm... We couldn't find this game in our hacks!")
 	wait(1)
 	game:Shutdown()
 end
